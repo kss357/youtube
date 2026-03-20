@@ -97,7 +97,7 @@ function parseRSS(xml, channelName, channelId) {
       youtubeUrl: `https://www.youtube.com/watch?v=${videoId}`,
       genres,
       gameTag: gameTag || undefined,
-      publishedAt: published.slice(0, 10),
+      publishedAt: published,
     });
   }
   return results;
