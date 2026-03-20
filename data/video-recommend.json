@@ -1,0 +1,829 @@
+{
+  "generatedAt": "2026-03-20T05:51:20.540Z",
+  "channels": {
+    "UCcmeytqqhbJHEXM9loY7Rcg": {
+      "name": "IGN Korea"
+    },
+    "UCBW_PhuXoHk40xF6nO0Q64w": {
+      "name": "깐"
+    },
+    "UC6haqlR_OBveu10B-7_AR2w": {
+      "name": "플레이타임"
+    },
+    "UC7loyhgCm1NRTtyF36hO-jA": {
+      "name": "게임통"
+    },
+    "UCG3uX-OwJ82T3L3EhC3GPXA": {
+      "name": "평균남자"
+    },
+    "UCM8nQko8QzUv0M3ZzQfvTcg": {
+      "name": "채널프느느"
+    }
+  },
+  "videos": [
+    {
+      "id": "Qa8rJ4u9d8o",
+      "title": "[붉은사막] 70시간 플레이하며 겪은 웃긴 순간들#shorts",
+      "channel": "채널프느느",
+      "channelId": "UCM8nQko8QzUv0M3ZzQfvTcg",
+      "thumbnail": "https://i.ytimg.com/vi/Qa8rJ4u9d8o/hqdefault.jpg",
+      "youtubeUrl": "https://www.youtube.com/watch?v=Qa8rJ4u9d8o",
+      "genres": [
+        "rpg"
+      ],
+      "gameTag": "붉은사막",
+      "publishedAt": "2026-03-20"
+    },
+    {
+      "id": "ZbndiRtzweE",
+      "title": "사기 전에 알아보는 붉은사막 | ⟪붉은사막⟫ 프리뷰(3/3) #붉은사막#오픈월드",
+      "channel": "플레이타임",
+      "channelId": "UC6haqlR_OBveu10B-7_AR2w",
+      "thumbnail": "https://i.ytimg.com/vi/ZbndiRtzweE/hqdefault.jpg",
+      "youtubeUrl": "https://www.youtube.com/watch?v=ZbndiRtzweE",
+      "genres": [
+        "rpg"
+      ],
+      "gameTag": "붉은사막",
+      "publishedAt": "2026-03-19"
+    },
+    {
+      "id": "-NJyZgSQJDc",
+      "title": "붉은사막 50시간 플레이 후기",
+      "channel": "게임통",
+      "channelId": "UC7loyhgCm1NRTtyF36hO-jA",
+      "thumbnail": "https://i.ytimg.com/vi/-NJyZgSQJDc/hqdefault.jpg",
+      "youtubeUrl": "https://www.youtube.com/watch?v=-NJyZgSQJDc",
+      "genres": [
+        "rpg"
+      ],
+      "gameTag": "붉은사막",
+      "publishedAt": "2026-03-19"
+    },
+    {
+      "id": "qZdiTjgTr84",
+      "title": "붉은사막 리뷰 점수 왜 이럼? 😩",
+      "channel": "게임통",
+      "channelId": "UC7loyhgCm1NRTtyF36hO-jA",
+      "thumbnail": "https://i.ytimg.com/vi/qZdiTjgTr84/hqdefault.jpg",
+      "youtubeUrl": "https://www.youtube.com/watch?v=qZdiTjgTr84",
+      "genres": [
+        "rpg"
+      ],
+      "gameTag": "붉은사막",
+      "publishedAt": "2026-03-19"
+    },
+    {
+      "id": "XPPM9pIH-UU",
+      "title": "부모님은 전혀 몰랐던 아들의 비밀",
+      "channel": "IGN Korea",
+      "channelId": "UCcmeytqqhbJHEXM9loY7Rcg",
+      "thumbnail": "https://i.ytimg.com/vi/XPPM9pIH-UU/hqdefault.jpg",
+      "youtubeUrl": "https://www.youtube.com/watch?v=XPPM9pIH-UU",
+      "genres": [
+        "casual"
+      ],
+      "publishedAt": "2026-03-18"
+    },
+    {
+      "id": "2kxGBBx_TzQ",
+      "title": "붉은사막 VS 드래곤즈 도그마 2, 닮은듯 다른 두 게임 | ⟪붉은사막⟫ 프리뷰(2/3) #붉은사막 #드래곤즈도그마2#레드데드리뎀션2",
+      "channel": "플레이타임",
+      "channelId": "UC6haqlR_OBveu10B-7_AR2w",
+      "thumbnail": "https://i.ytimg.com/vi/2kxGBBx_TzQ/hqdefault.jpg",
+      "youtubeUrl": "https://www.youtube.com/watch?v=2kxGBBx_TzQ",
+      "genres": [
+        "rpg"
+      ],
+      "gameTag": "붉은사막",
+      "publishedAt": "2026-03-18"
+    },
+    {
+      "id": "wVaU7JI_ZVE",
+      "title": "[붉은사막] 오랜 기다림 끝에 드디어..!!! 미리 해봤습니다.",
+      "channel": "채널프느느",
+      "channelId": "UCM8nQko8QzUv0M3ZzQfvTcg",
+      "thumbnail": "https://i.ytimg.com/vi/wVaU7JI_ZVE/hqdefault.jpg",
+      "youtubeUrl": "https://www.youtube.com/watch?v=wVaU7JI_ZVE",
+      "genres": [
+        "rpg"
+      ],
+      "gameTag": "붉은사막",
+      "publishedAt": "2026-03-18"
+    },
+    {
+      "id": "gaQX0BCPaiE",
+      "title": "포코피아, 붉은사막 그 다음은? 4월 신작 게임 TOP 15 | IGN Korea",
+      "channel": "IGN Korea",
+      "channelId": "UCcmeytqqhbJHEXM9loY7Rcg",
+      "thumbnail": "https://i.ytimg.com/vi/gaQX0BCPaiE/hqdefault.jpg",
+      "youtubeUrl": "https://www.youtube.com/watch?v=gaQX0BCPaiE",
+      "genres": [
+        "rpg"
+      ],
+      "gameTag": "붉은사막",
+      "publishedAt": "2026-03-17"
+    },
+    {
+      "id": "CYohCEoYzmY",
+      "title": "불가능의 벽을 깨부순 소년",
+      "channel": "IGN Korea",
+      "channelId": "UCcmeytqqhbJHEXM9loY7Rcg",
+      "thumbnail": "https://i.ytimg.com/vi/CYohCEoYzmY/hqdefault.jpg",
+      "youtubeUrl": "https://www.youtube.com/watch?v=CYohCEoYzmY",
+      "genres": [
+        "casual"
+      ],
+      "publishedAt": "2026-03-17"
+    },
+    {
+      "id": "NovPJdZzDss",
+      "title": "【 4월 신작 게임 】 바다와 우주가 기다리는 4월 | April 2026 New Game Releases",
+      "channel": "깐",
+      "channelId": "UCBW_PhuXoHk40xF6nO0Q64w",
+      "thumbnail": "https://i.ytimg.com/vi/NovPJdZzDss/hqdefault.jpg",
+      "youtubeUrl": "https://www.youtube.com/watch?v=NovPJdZzDss",
+      "genres": [
+        "casual"
+      ],
+      "publishedAt": "2026-03-17"
+    },
+    {
+      "id": "RwTrJPtZgqY",
+      "title": "만년 기대작 붉은사막이 끝내 발매되기까지 | ⟪붉은사막⟫ 프리뷰(1/3) #붉은사막 #펄어비스 #오픈월드",
+      "channel": "플레이타임",
+      "channelId": "UC6haqlR_OBveu10B-7_AR2w",
+      "thumbnail": "https://i.ytimg.com/vi/RwTrJPtZgqY/hqdefault.jpg",
+      "youtubeUrl": "https://www.youtube.com/watch?v=RwTrJPtZgqY",
+      "genres": [
+        "rpg"
+      ],
+      "gameTag": "붉은사막",
+      "publishedAt": "2026-03-17"
+    },
+    {
+      "id": "TFKvoQrVOjw",
+      "title": "[리뷰] 즈3이 아니었습니다 《몬스터헌터 스토리즈 3 엇갈린 운명》 |  Monster Hunter Stories 3: Twisted Reflection Review",
+      "channel": "깐",
+      "channelId": "UCBW_PhuXoHk40xF6nO0Q64w",
+      "thumbnail": "https://i.ytimg.com/vi/TFKvoQrVOjw/hqdefault.jpg",
+      "youtubeUrl": "https://www.youtube.com/watch?v=TFKvoQrVOjw",
+      "genres": [
+        "rpg",
+        "collect"
+      ],
+      "gameTag": "몬스터헌터",
+      "publishedAt": "2026-03-16"
+    },
+    {
+      "id": "66Ig9rpXphE",
+      "title": "(신작소개) 드디어 발매되는 2026년 상반기 최고 기대작, ⟪붉은사막⟫ (ft. 펄어비스, 드래곤즈도그마, 레드데드리뎀션2)",
+      "channel": "플레이타임",
+      "channelId": "UC6haqlR_OBveu10B-7_AR2w",
+      "thumbnail": "https://i.ytimg.com/vi/66Ig9rpXphE/hqdefault.jpg",
+      "youtubeUrl": "https://www.youtube.com/watch?v=66Ig9rpXphE",
+      "genres": [
+        "rpg"
+      ],
+      "gameTag": "붉은사막",
+      "publishedAt": "2026-03-16"
+    },
+    {
+      "id": "ISARWFssxIs",
+      "title": "전작의 한계를 넘어선 시리즈 최고작, 몬스터헌터 스토리즈 3 게임플레이 리뷰 | IGN Korea",
+      "channel": "IGN Korea",
+      "channelId": "UCcmeytqqhbJHEXM9loY7Rcg",
+      "thumbnail": "https://i.ytimg.com/vi/ISARWFssxIs/hqdefault.jpg",
+      "youtubeUrl": "https://www.youtube.com/watch?v=ISARWFssxIs",
+      "genres": [
+        "rpg",
+        "collect"
+      ],
+      "gameTag": "몬스터헌터",
+      "publishedAt": "2026-03-15"
+    },
+    {
+      "id": "n8rAVsWuZ4c",
+      "title": "파이널판타지14에서 펼쳐진 감동적인 추모식",
+      "channel": "IGN Korea",
+      "channelId": "UCcmeytqqhbJHEXM9loY7Rcg",
+      "thumbnail": "https://i.ytimg.com/vi/n8rAVsWuZ4c/hqdefault.jpg",
+      "youtubeUrl": "https://www.youtube.com/watch?v=n8rAVsWuZ4c",
+      "genres": [
+        "rpg"
+      ],
+      "gameTag": "파이널판타지",
+      "publishedAt": "2026-03-14"
+    },
+    {
+      "id": "9OHO7TR4cIQ",
+      "title": "이 시국에 게이밍 PC 조립한다고? 이거 하나 사면 끝.",
+      "channel": "게임통",
+      "channelId": "UC7loyhgCm1NRTtyF36hO-jA",
+      "thumbnail": "https://i.ytimg.com/vi/9OHO7TR4cIQ/hqdefault.jpg",
+      "youtubeUrl": "https://www.youtube.com/watch?v=9OHO7TR4cIQ",
+      "genres": [
+        "casual"
+      ],
+      "publishedAt": "2026-03-14"
+    },
+    {
+      "id": "C6XhYc0ugqc",
+      "title": "붉은사막 출시 D-7, 최적화부터 출시 트레일러까지 | IGN Korea",
+      "channel": "IGN Korea",
+      "channelId": "UCcmeytqqhbJHEXM9loY7Rcg",
+      "thumbnail": "https://i.ytimg.com/vi/C6XhYc0ugqc/hqdefault.jpg",
+      "youtubeUrl": "https://www.youtube.com/watch?v=C6XhYc0ugqc",
+      "genres": [
+        "rpg"
+      ],
+      "gameTag": "붉은사막",
+      "publishedAt": "2026-03-13"
+    },
+    {
+      "id": "16MoMsbv8sw",
+      "title": "거를 타선이 없는 게임 추천! 이런 게임을 왜 몰랐을까? BEST 10!",
+      "channel": "평균남자",
+      "channelId": "UCG3uX-OwJ82T3L3EhC3GPXA",
+      "thumbnail": "https://i.ytimg.com/vi/16MoMsbv8sw/hqdefault.jpg",
+      "youtubeUrl": "https://www.youtube.com/watch?v=16MoMsbv8sw",
+      "genres": [
+        "casual"
+      ],
+      "publishedAt": "2026-03-13"
+    },
+    {
+      "id": "bgNs4UMi5RU",
+      "title": "[낙원: 라스트 파라다이스] 진짜 종로 구현도 100000% 분위기 미친 좀비 게임 등장",
+      "channel": "채널프느느",
+      "channelId": "UCM8nQko8QzUv0M3ZzQfvTcg",
+      "thumbnail": "https://i.ytimg.com/vi/bgNs4UMi5RU/hqdefault.jpg",
+      "youtubeUrl": "https://www.youtube.com/watch?v=bgNs4UMi5RU",
+      "genres": [
+        "casual"
+      ],
+      "publishedAt": "2026-03-13"
+    },
+    {
+      "id": "ZZXx0DmNvzc",
+      "title": "[리뷰] 레프트 4 데드, 백 4 블러드, 월드워 Z 그리고 《존 카펜터의 톡식 코만도》 | John Carpenter's Toxic Commando Review",
+      "channel": "깐",
+      "channelId": "UCBW_PhuXoHk40xF6nO0Q64w",
+      "thumbnail": "https://i.ytimg.com/vi/ZZXx0DmNvzc/hqdefault.jpg",
+      "youtubeUrl": "https://www.youtube.com/watch?v=ZZXx0DmNvzc",
+      "genres": [
+        "casual"
+      ],
+      "publishedAt": "2026-03-12"
+    },
+    {
+      "id": "J28EpvUvB1M",
+      "title": "호러 게임 리메이크 전성시대, 제로 시리즈의 부활? | ⟪제로 ~붉은 나비~ REMAKE⟫ 프리뷰(3/3) #제로붉은나비리메이크#공포게임#팀닌자",
+      "channel": "플레이타임",
+      "channelId": "UC6haqlR_OBveu10B-7_AR2w",
+      "thumbnail": "https://i.ytimg.com/vi/J28EpvUvB1M/hqdefault.jpg",
+      "youtubeUrl": "https://www.youtube.com/watch?v=J28EpvUvB1M",
+      "genres": [
+        "casual"
+      ],
+      "publishedAt": "2026-03-12"
+    },
+    {
+      "id": "CPWkk5vEhEE",
+      "title": "이걸 어떻게 참아? 붉은사막 공식 출시 트레일러 한국어",
+      "channel": "게임통",
+      "channelId": "UC7loyhgCm1NRTtyF36hO-jA",
+      "thumbnail": "https://i.ytimg.com/vi/CPWkk5vEhEE/hqdefault.jpg",
+      "youtubeUrl": "https://www.youtube.com/watch?v=CPWkk5vEhEE",
+      "genres": [
+        "rpg"
+      ],
+      "gameTag": "붉은사막",
+      "publishedAt": "2026-03-12"
+    },
+    {
+      "id": "4MbvXFcKE5U",
+      "title": "출시가 코앞으로 다가온 2026년 최고의 기대작, 붉은사막 최종 프리뷰 | IGN Korea",
+      "channel": "IGN Korea",
+      "channelId": "UCcmeytqqhbJHEXM9loY7Rcg",
+      "thumbnail": "https://i.ytimg.com/vi/4MbvXFcKE5U/hqdefault.jpg",
+      "youtubeUrl": "https://www.youtube.com/watch?v=4MbvXFcKE5U",
+      "genres": [
+        "rpg"
+      ],
+      "gameTag": "붉은사막",
+      "publishedAt": "2026-03-11"
+    },
+    {
+      "id": "sxwy2Gd8yNE",
+      "title": "엘든 링 속 전설의 항아리맨을 아십니까?",
+      "channel": "IGN Korea",
+      "channelId": "UCcmeytqqhbJHEXM9loY7Rcg",
+      "thumbnail": "https://i.ytimg.com/vi/sxwy2Gd8yNE/hqdefault.jpg",
+      "youtubeUrl": "https://www.youtube.com/watch?v=sxwy2Gd8yNE",
+      "genres": [
+        "rpg"
+      ],
+      "gameTag": "엘든 링",
+      "publishedAt": "2026-03-11"
+    },
+    {
+      "id": "CnoO0PeEKO0",
+      "title": "라리안 게임들과는 또 다른 맛의 CRPG 《솔라스타 2》 (얼리 액세스) #짧은리뷰 | Solasta 2 Review",
+      "channel": "깐",
+      "channelId": "UCBW_PhuXoHk40xF6nO0Q64w",
+      "thumbnail": "https://i.ytimg.com/vi/CnoO0PeEKO0/hqdefault.jpg",
+      "youtubeUrl": "https://www.youtube.com/watch?v=CnoO0PeEKO0",
+      "genres": [
+        "rpg"
+      ],
+      "publishedAt": "2026-03-11"
+    },
+    {
+      "id": "4QQSREGFiJ0",
+      "title": "사기 전에 알아보는 제로 붉은 나비 리메이크 | ⟪제로 ~붉은 나비~ REMAKE⟫ 프리뷰(2/3) #제로붉은나비리메이크#공포게임",
+      "channel": "플레이타임",
+      "channelId": "UC6haqlR_OBveu10B-7_AR2w",
+      "thumbnail": "https://i.ytimg.com/vi/4QQSREGFiJ0/hqdefault.jpg",
+      "youtubeUrl": "https://www.youtube.com/watch?v=4QQSREGFiJ0",
+      "genres": [
+        "casual"
+      ],
+      "publishedAt": "2026-03-11"
+    },
+    {
+      "id": "R7JuhARMPw8",
+      "title": "[슬레이 더 스파이어 2] 나 덱 빌딩 게임 좋아했나봐요...",
+      "channel": "채널프느느",
+      "channelId": "UCM8nQko8QzUv0M3ZzQfvTcg",
+      "thumbnail": "https://i.ytimg.com/vi/R7JuhARMPw8/hqdefault.jpg",
+      "youtubeUrl": "https://www.youtube.com/watch?v=R7JuhARMPw8",
+      "genres": [
+        "casual"
+      ],
+      "publishedAt": "2026-03-11"
+    },
+    {
+      "id": "qobYNrQDqLw",
+      "title": "[리뷰] 귓가에 속삭이는 공포로 돌아온 J호러 《제로 ~붉은 나비~ 리메이크》 | Fatal Frame 2: Crimson Butterfly Remake Review",
+      "channel": "깐",
+      "channelId": "UCBW_PhuXoHk40xF6nO0Q64w",
+      "thumbnail": "https://i.ytimg.com/vi/qobYNrQDqLw/hqdefault.jpg",
+      "youtubeUrl": "https://www.youtube.com/watch?v=qobYNrQDqLw",
+      "genres": [
+        "casual"
+      ],
+      "publishedAt": "2026-03-10"
+    },
+    {
+      "id": "jZXspuvXg6g",
+      "title": "시리즈 최고 명작 ⟪제로 붉은 나비⟫가 리메이크 되기까지 | ⟪제로 ~붉은 나비~ REMAKE⟫ 프리뷰(1/3) #제로붉은나비리메이크#공포게임",
+      "channel": "플레이타임",
+      "channelId": "UC6haqlR_OBveu10B-7_AR2w",
+      "thumbnail": "https://i.ytimg.com/vi/jZXspuvXg6g/hqdefault.jpg",
+      "youtubeUrl": "https://www.youtube.com/watch?v=jZXspuvXg6g",
+      "genres": [
+        "casual"
+      ],
+      "publishedAt": "2026-03-10"
+    },
+    {
+      "id": "_TLMKF1FL_I",
+      "title": "포켓몬 시리즈 역대 최고 평점 달성! 포켓몬 포코피아 게임플레이 리뷰 | IGN Korea",
+      "channel": "IGN Korea",
+      "channelId": "UCcmeytqqhbJHEXM9loY7Rcg",
+      "thumbnail": "https://i.ytimg.com/vi/_TLMKF1FL_I/hqdefault.jpg",
+      "youtubeUrl": "https://www.youtube.com/watch?v=_TLMKF1FL_I",
+      "genres": [
+        "rpg",
+        "collect"
+      ],
+      "gameTag": "포켓몬",
+      "publishedAt": "2026-03-09"
+    },
+    {
+      "id": "dTj7LSNDHTw",
+      "title": "스튜를 배달하기 위해 모든 유저들이 힘을 모은 사건",
+      "channel": "IGN Korea",
+      "channelId": "UCcmeytqqhbJHEXM9loY7Rcg",
+      "thumbnail": "https://i.ytimg.com/vi/dTj7LSNDHTw/hqdefault.jpg",
+      "youtubeUrl": "https://www.youtube.com/watch?v=dTj7LSNDHTw",
+      "genres": [
+        "casual"
+      ],
+      "publishedAt": "2026-03-09"
+    },
+    {
+      "id": "GRQNx5umV4k",
+      "title": "제목부터 작정한 노가다 뱀서라이크 《그라인드 서바이버즈》 #짧은리뷰 | Grind Survivors Review",
+      "channel": "깐",
+      "channelId": "UCBW_PhuXoHk40xF6nO0Q64w",
+      "thumbnail": "https://i.ytimg.com/vi/GRQNx5umV4k/hqdefault.jpg",
+      "youtubeUrl": "https://www.youtube.com/watch?v=GRQNx5umV4k",
+      "genres": [
+        "casual"
+      ],
+      "publishedAt": "2026-03-09"
+    },
+    {
+      "id": "crKrIcEv7lw",
+      "title": "(신작소개) 리메이크되는 독특한 게임성의 호러 명작, ⟪제로 ~붉은 나비~ REMAKE⟫ (ft. 바이오하자드, 사일런트 힐, 팀 닌자)",
+      "channel": "플레이타임",
+      "channelId": "UC6haqlR_OBveu10B-7_AR2w",
+      "thumbnail": "https://i.ytimg.com/vi/crKrIcEv7lw/hqdefault.jpg",
+      "youtubeUrl": "https://www.youtube.com/watch?v=crKrIcEv7lw",
+      "genres": [
+        "casual"
+      ],
+      "publishedAt": "2026-03-09"
+    },
+    {
+      "id": "7uFTKNK6aiI",
+      "title": "알라바스타 던 오피셜 한글화 소식! #스팀게임 #게임추천 #인디게임",
+      "channel": "평균남자",
+      "channelId": "UCG3uX-OwJ82T3L3EhC3GPXA",
+      "thumbnail": "https://i.ytimg.com/vi/7uFTKNK6aiI/hqdefault.jpg",
+      "youtubeUrl": "https://www.youtube.com/watch?v=7uFTKNK6aiI",
+      "genres": [
+        "indie"
+      ],
+      "publishedAt": "2026-03-09"
+    },
+    {
+      "id": "lWcgdCV7WbU",
+      "title": "고스트 오브 요테이 리뷰 최종 마무리 | ⟪고스트 오브 요테이⟫ 리뷰(4/4) #고스트오브요테이#오픈월드#어쌔신크리드섀도우스",
+      "channel": "플레이타임",
+      "channelId": "UC6haqlR_OBveu10B-7_AR2w",
+      "thumbnail": "https://i.ytimg.com/vi/lWcgdCV7WbU/hqdefault.jpg",
+      "youtubeUrl": "https://www.youtube.com/watch?v=lWcgdCV7WbU",
+      "genres": [
+        "casual"
+      ],
+      "publishedAt": "2026-03-08"
+    },
+    {
+      "id": "P7NEnSdvzRQ",
+      "title": "비상 🚨 마동석 용과 같이 게임 개발 취소 위기",
+      "channel": "게임통",
+      "channelId": "UC7loyhgCm1NRTtyF36hO-jA",
+      "thumbnail": "https://i.ytimg.com/vi/P7NEnSdvzRQ/hqdefault.jpg",
+      "youtubeUrl": "https://www.youtube.com/watch?v=P7NEnSdvzRQ",
+      "genres": [
+        "casual"
+      ],
+      "publishedAt": "2026-03-08"
+    },
+    {
+      "id": "vhJyoHiidNg",
+      "title": "국가 기밀이 유출된 황당한 이유 ㄷㄷ",
+      "channel": "IGN Korea",
+      "channelId": "UCcmeytqqhbJHEXM9loY7Rcg",
+      "thumbnail": "https://i.ytimg.com/vi/vhJyoHiidNg/hqdefault.jpg",
+      "youtubeUrl": "https://www.youtube.com/watch?v=vhJyoHiidNg",
+      "genres": [
+        "casual"
+      ],
+      "publishedAt": "2026-03-07"
+    },
+    {
+      "id": "mBCUj2j7Cjs",
+      "title": "턴제 로그라이크 방식의 다크한 던전 크롤러 《티지애스터리》 #짧은리뷰 | Thysiastery Review",
+      "channel": "깐",
+      "channelId": "UCBW_PhuXoHk40xF6nO0Q64w",
+      "thumbnail": "https://i.ytimg.com/vi/mBCUj2j7Cjs/hqdefault.jpg",
+      "youtubeUrl": "https://www.youtube.com/watch?v=mBCUj2j7Cjs",
+      "genres": [
+        "strategy"
+      ],
+      "gameTag": "리그 오브 레전드",
+      "publishedAt": "2026-03-07"
+    },
+    {
+      "id": "ZOqnxiwBrYs",
+      "title": "홋카이도를 배경으로 한 게임이 지역 별로 차별화를 한 방법 | ⟪고스트 오브 요테이⟫ 리뷰(3/4) #고스트오브요테이#홋카이도#오픈월드",
+      "channel": "플레이타임",
+      "channelId": "UC6haqlR_OBveu10B-7_AR2w",
+      "thumbnail": "https://i.ytimg.com/vi/ZOqnxiwBrYs/hqdefault.jpg",
+      "youtubeUrl": "https://www.youtube.com/watch?v=ZOqnxiwBrYs",
+      "genres": [
+        "casual"
+      ],
+      "publishedAt": "2026-03-07"
+    },
+    {
+      "id": "-YdRnmThF8k",
+      "title": "멸종한 용이 돌아왔다, 몬스터헌터 스토리즈 3 게임플레이 후기 | IGN Korea",
+      "channel": "IGN Korea",
+      "channelId": "UCcmeytqqhbJHEXM9loY7Rcg",
+      "thumbnail": "https://i.ytimg.com/vi/-YdRnmThF8k/hqdefault.jpg",
+      "youtubeUrl": "https://www.youtube.com/watch?v=-YdRnmThF8k",
+      "genres": [
+        "rpg",
+        "collect"
+      ],
+      "gameTag": "몬스터헌터",
+      "publishedAt": "2026-03-06"
+    },
+    {
+      "id": "4-JITPZohnI",
+      "title": "의외의 개발사가 참여한 포켓몬 포코피아 | ⟪포켓몬 포코피아⟫ 프리뷰(3/3) #포켓몬포코피아#오메가포스#진삼국무쌍",
+      "channel": "플레이타임",
+      "channelId": "UC6haqlR_OBveu10B-7_AR2w",
+      "thumbnail": "https://i.ytimg.com/vi/4-JITPZohnI/hqdefault.jpg",
+      "youtubeUrl": "https://www.youtube.com/watch?v=4-JITPZohnI",
+      "genres": [
+        "rpg",
+        "collect"
+      ],
+      "gameTag": "포켓몬",
+      "publishedAt": "2026-03-06"
+    },
+    {
+      "id": "egAm8JpwhDc",
+      "title": "바이오하자드 레퀴엠 장단점 리뷰",
+      "channel": "게임통",
+      "channelId": "UC7loyhgCm1NRTtyF36hO-jA",
+      "thumbnail": "https://i.ytimg.com/vi/egAm8JpwhDc/hqdefault.jpg",
+      "youtubeUrl": "https://www.youtube.com/watch?v=egAm8JpwhDc",
+      "genres": [
+        "casual"
+      ],
+      "publishedAt": "2026-03-06"
+    },
+    {
+      "id": "bgs4sYhpvJI",
+      "title": "알라바스타 던 한글화 소식!! 개발 근황 궁금한 게임 8종!",
+      "channel": "평균남자",
+      "channelId": "UCG3uX-OwJ82T3L3EhC3GPXA",
+      "thumbnail": "https://i.ytimg.com/vi/bgs4sYhpvJI/hqdefault.jpg",
+      "youtubeUrl": "https://www.youtube.com/watch?v=bgs4sYhpvJI",
+      "genres": [
+        "casual"
+      ],
+      "publishedAt": "2026-03-06"
+    },
+    {
+      "id": "i_DdTE22rWM",
+      "title": "하이가드 서비스 종료부터 포켓몬 10세대 공개까지, 희비 엇갈린 게임업계 | IGN Korea",
+      "channel": "IGN Korea",
+      "channelId": "UCcmeytqqhbJHEXM9loY7Rcg",
+      "thumbnail": "https://i.ytimg.com/vi/i_DdTE22rWM/hqdefault.jpg",
+      "youtubeUrl": "https://www.youtube.com/watch?v=i_DdTE22rWM",
+      "genres": [
+        "rpg",
+        "collect"
+      ],
+      "gameTag": "포켓몬",
+      "publishedAt": "2026-03-05"
+    },
+    {
+      "id": "ZaEiPnPVhaA",
+      "title": "이브 온라인 속 5억 원짜리 역대급 우주 전쟁!",
+      "channel": "IGN Korea",
+      "channelId": "UCcmeytqqhbJHEXM9loY7Rcg",
+      "thumbnail": "https://i.ytimg.com/vi/ZaEiPnPVhaA/hqdefault.jpg",
+      "youtubeUrl": "https://www.youtube.com/watch?v=ZaEiPnPVhaA",
+      "genres": [
+        "casual"
+      ],
+      "publishedAt": "2026-03-05"
+    },
+    {
+      "id": "Tzcv1_6mH_g",
+      "title": "역사와 전통의 포켓몬, 독특한 신작이 나오기까지 | ⟪포켓몬 포코피아⟫ 프리뷰(2/3) #포켓몬포코피아#샌드박스#크래프팅",
+      "channel": "플레이타임",
+      "channelId": "UC6haqlR_OBveu10B-7_AR2w",
+      "thumbnail": "https://i.ytimg.com/vi/Tzcv1_6mH_g/hqdefault.jpg",
+      "youtubeUrl": "https://www.youtube.com/watch?v=Tzcv1_6mH_g",
+      "genres": [
+        "rpg",
+        "collect"
+      ],
+      "gameTag": "포켓몬",
+      "publishedAt": "2026-03-05"
+    },
+    {
+      "id": "ABmYgYCPyfY",
+      "title": "스케일 지렸다, 연운 확장팩 하서 플레이 후기",
+      "channel": "게임통",
+      "channelId": "UC7loyhgCm1NRTtyF36hO-jA",
+      "thumbnail": "https://i.ytimg.com/vi/ABmYgYCPyfY/hqdefault.jpg",
+      "youtubeUrl": "https://www.youtube.com/watch?v=ABmYgYCPyfY",
+      "genres": [
+        "casual"
+      ],
+      "publishedAt": "2026-03-05"
+    },
+    {
+      "id": "BjgxCQxBiug",
+      "title": "[스팀 넥스트페스트] 기대작 2분 40초만에 설명하는 영상 #shorts",
+      "channel": "채널프느느",
+      "channelId": "UCM8nQko8QzUv0M3ZzQfvTcg",
+      "thumbnail": "https://i.ytimg.com/vi/BjgxCQxBiug/hqdefault.jpg",
+      "youtubeUrl": "https://www.youtube.com/watch?v=BjgxCQxBiug",
+      "genres": [
+        "indie"
+      ],
+      "publishedAt": "2026-03-05"
+    },
+    {
+      "id": "bKeftIWuqn0",
+      "title": "사기 전에 알아보는 포켓몬 포코피아 | ⟪포켓몬 포코피아⟫ 프리뷰(1/3) #포켓몬포코피아#샌드박스#크래프팅",
+      "channel": "플레이타임",
+      "channelId": "UC6haqlR_OBveu10B-7_AR2w",
+      "thumbnail": "https://i.ytimg.com/vi/bKeftIWuqn0/hqdefault.jpg",
+      "youtubeUrl": "https://www.youtube.com/watch?v=bKeftIWuqn0",
+      "genres": [
+        "rpg",
+        "collect"
+      ],
+      "gameTag": "포켓몬",
+      "publishedAt": "2026-03-04"
+    },
+    {
+      "id": "u3Wb6GOaFz8",
+      "title": "붉은사막 6시간 해봤습니다. 그런 게임 아닙니다.",
+      "channel": "게임통",
+      "channelId": "UC7loyhgCm1NRTtyF36hO-jA",
+      "thumbnail": "https://i.ytimg.com/vi/u3Wb6GOaFz8/hqdefault.jpg",
+      "youtubeUrl": "https://www.youtube.com/watch?v=u3Wb6GOaFz8",
+      "genres": [
+        "rpg"
+      ],
+      "gameTag": "붉은사막",
+      "publishedAt": "2026-03-04"
+    },
+    {
+      "id": "Hvh3HFwI3UE",
+      "title": "[바이오하자드 레퀴엠] 공식 입니다 외우세요 RE:2 + RE:4 = 레퀴엠",
+      "channel": "채널프느느",
+      "channelId": "UCM8nQko8QzUv0M3ZzQfvTcg",
+      "thumbnail": "https://i.ytimg.com/vi/Hvh3HFwI3UE/hqdefault.jpg",
+      "youtubeUrl": "https://www.youtube.com/watch?v=Hvh3HFwI3UE",
+      "genres": [
+        "casual"
+      ],
+      "publishedAt": "2026-03-04"
+    },
+    {
+      "id": "9tVrWTJKtUc",
+      "title": "포켓몬스터 30주년 기념! IGN 선정 역대 포켓몬 시리즈 TOP 10 | IGN Korea",
+      "channel": "IGN Korea",
+      "channelId": "UCcmeytqqhbJHEXM9loY7Rcg",
+      "thumbnail": "https://i.ytimg.com/vi/9tVrWTJKtUc/hqdefault.jpg",
+      "youtubeUrl": "https://www.youtube.com/watch?v=9tVrWTJKtUc",
+      "genres": [
+        "rpg",
+        "collect"
+      ],
+      "gameTag": "포켓몬",
+      "publishedAt": "2026-03-03"
+    },
+    {
+      "id": "WKiRYIsYQaY",
+      "title": "좀비 대재앙 속 상점 주인이 되는 게임 《더 워킹 트레이드》 #짧은리뷰 | The Walking Trade Review",
+      "channel": "깐",
+      "channelId": "UCBW_PhuXoHk40xF6nO0Q64w",
+      "thumbnail": "https://i.ytimg.com/vi/WKiRYIsYQaY/hqdefault.jpg",
+      "youtubeUrl": "https://www.youtube.com/watch?v=WKiRYIsYQaY",
+      "genres": [
+        "casual"
+      ],
+      "publishedAt": "2026-03-03"
+    },
+    {
+      "id": "n8gBy_rzdio",
+      "title": "(신작소개) 모동숲과 마크가 만난 포켓몬 신작, 시리즈 최고점 달성? | ⟪포켓몬 포코피아⟫ (ft. 오메가포스, 드퀘빌2)",
+      "channel": "플레이타임",
+      "channelId": "UC6haqlR_OBveu10B-7_AR2w",
+      "thumbnail": "https://i.ytimg.com/vi/n8gBy_rzdio/hqdefault.jpg",
+      "youtubeUrl": "https://www.youtube.com/watch?v=n8gBy_rzdio",
+      "genres": [
+        "rpg",
+        "collect"
+      ],
+      "gameTag": "포켓몬",
+      "publishedAt": "2026-03-03"
+    },
+    {
+      "id": "9O9y6WVpCnY",
+      "title": "일본 전국시대 게임이 서부극처럼 보였던 이유 | ⟪고스트 오브 요테이⟫ 리뷰(2/4) #고스트오브요테이#구로사와아키라#황야의7인",
+      "channel": "플레이타임",
+      "channelId": "UC6haqlR_OBveu10B-7_AR2w",
+      "thumbnail": "https://i.ytimg.com/vi/9O9y6WVpCnY/hqdefault.jpg",
+      "youtubeUrl": "https://www.youtube.com/watch?v=9O9y6WVpCnY",
+      "genres": [
+        "casual"
+      ],
+      "publishedAt": "2026-03-02"
+    },
+    {
+      "id": "rUNS9mJ1vdg",
+      "title": "워프레임 2026년에 시작해도 재밌을까?",
+      "channel": "게임통",
+      "channelId": "UC7loyhgCm1NRTtyF36hO-jA",
+      "thumbnail": "https://i.ytimg.com/vi/rUNS9mJ1vdg/hqdefault.jpg",
+      "youtubeUrl": "https://www.youtube.com/watch?v=rUNS9mJ1vdg",
+      "genres": [
+        "casual"
+      ],
+      "publishedAt": "2026-03-01"
+    },
+    {
+      "id": "cTfpGFyvfIg",
+      "title": "[리뷰] 긴장과 해방이 이루는 완벽한 균형 《바이오하자드 레퀴엠》 | Resident Evil Requiem Review",
+      "channel": "깐",
+      "channelId": "UCBW_PhuXoHk40xF6nO0Q64w",
+      "thumbnail": "https://i.ytimg.com/vi/cTfpGFyvfIg/hqdefault.jpg",
+      "youtubeUrl": "https://www.youtube.com/watch?v=cTfpGFyvfIg",
+      "genres": [
+        "casual"
+      ],
+      "publishedAt": "2026-02-28"
+    },
+    {
+      "id": "SsW2L1iXyWc",
+      "title": "이건 진짜 물건이다! 요즘 제일 기대되는 게임 BEST 10",
+      "channel": "평균남자",
+      "channelId": "UCG3uX-OwJ82T3L3EhC3GPXA",
+      "thumbnail": "https://i.ytimg.com/vi/SsW2L1iXyWc/hqdefault.jpg",
+      "youtubeUrl": "https://www.youtube.com/watch?v=SsW2L1iXyWc",
+      "genres": [
+        "casual"
+      ],
+      "publishedAt": "2026-02-27"
+    },
+    {
+      "id": "e6pfBmzONrs",
+      "title": "[인왕 3] 다른 건 몰라도 진짜 액션만큼은 역대급이 맞다...#shorts",
+      "channel": "채널프느느",
+      "channelId": "UCM8nQko8QzUv0M3ZzQfvTcg",
+      "thumbnail": "https://i.ytimg.com/vi/e6pfBmzONrs/hqdefault.jpg",
+      "youtubeUrl": "https://www.youtube.com/watch?v=e6pfBmzONrs",
+      "genres": [
+        "strategy"
+      ],
+      "publishedAt": "2026-02-27"
+    },
+    {
+      "id": "hqUIHmoheaQ",
+      "title": "지금의 나를 만든, 나의 인생 게임들 | Games That Made Me Who I Am",
+      "channel": "깐",
+      "channelId": "UCBW_PhuXoHk40xF6nO0Q64w",
+      "thumbnail": "https://i.ytimg.com/vi/hqUIHmoheaQ/hqdefault.jpg",
+      "youtubeUrl": "https://www.youtube.com/watch?v=hqUIHmoheaQ",
+      "genres": [
+        "casual"
+      ],
+      "publishedAt": "2026-02-26"
+    },
+    {
+      "id": "xddxOaiRuk0",
+      "title": "바이오하자드 레퀴엠 리뷰 점수 떴다 😱",
+      "channel": "게임통",
+      "channelId": "UC7loyhgCm1NRTtyF36hO-jA",
+      "thumbnail": "https://i.ytimg.com/vi/xddxOaiRuk0/hqdefault.jpg",
+      "youtubeUrl": "https://www.youtube.com/watch?v=xddxOaiRuk0",
+      "genres": [
+        "casual"
+      ],
+      "publishedAt": "2026-02-26"
+    },
+    {
+      "id": "lzOXXOX6KNU",
+      "title": "[블레이드송] 대장장이 체험에 '디스코 엘리시움' 추가한 게임?!",
+      "channel": "채널프느느",
+      "channelId": "UCM8nQko8QzUv0M3ZzQfvTcg",
+      "thumbnail": "https://i.ytimg.com/vi/lzOXXOX6KNU/hqdefault.jpg",
+      "youtubeUrl": "https://www.youtube.com/watch?v=lzOXXOX6KNU",
+      "genres": [
+        "casual"
+      ],
+      "publishedAt": "2026-02-25"
+    },
+    {
+      "id": "XaGxGGLuqws",
+      "title": "[리뷰] 중력을 뒤집으며 달리는 정밀 플랫포머 《러브 이터널》 | Love Eternal Review",
+      "channel": "깐",
+      "channelId": "UCBW_PhuXoHk40xF6nO0Q64w",
+      "thumbnail": "https://i.ytimg.com/vi/XaGxGGLuqws/hqdefault.jpg",
+      "youtubeUrl": "https://www.youtube.com/watch?v=XaGxGGLuqws",
+      "genres": [
+        "casual"
+      ],
+      "publishedAt": "2026-02-20"
+    },
+    {
+      "id": "PCUht5oFzHI",
+      "title": "플스5 게임 2026년 최고 기대작 Top 10",
+      "channel": "게임통",
+      "channelId": "UC7loyhgCm1NRTtyF36hO-jA",
+      "thumbnail": "https://i.ytimg.com/vi/PCUht5oFzHI/hqdefault.jpg",
+      "youtubeUrl": "https://www.youtube.com/watch?v=PCUht5oFzHI",
+      "genres": [
+        "casual"
+      ],
+      "publishedAt": "2026-02-20"
+    }
+  ]
+}
