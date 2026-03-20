@@ -1,0 +1,35 @@
+name: Fetch YouTube Videos
+
+on:
+  schedule:
+    # 6시간마다 실행 (UTC 0, 6, 12, 18시)
+    - cron: '0 0,6,12,18 * * *'
+  workflow_dispatch: # 수동 실행 가능
+
+jobs:
+  fetch:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write
+
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-node@v4
+        with:
+          node-version: '20'
+
+      - name: Fetch RSS feeds
+        run: node scripts/fetch.js
+
+      - name: Commit & Push
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+          git add data/video-recommend.json
+          if git diff --cached --quiet; then
+            echo "No changes to commit"
+          else
+            git commit -m "chore: update video-recommend.json $(date -u +'%Y-%m-%d %H:%M UTC')"
+            git push
+          fi
