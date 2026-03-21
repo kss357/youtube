@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-03-21T06:56:37.692Z",
+  "generatedAt": "2026-03-21T13:04:12.554Z",
   "channels": {
     "UCcmeytqqhbJHEXM9loY7Rcg": {
       "name": "IGN Korea"
@@ -21,6 +21,20 @@
     }
   },
   "videos": [
+    {
+      "id": "Bb6SxujJR0k",
+      "title": "닌텐도 스위치2 독점 기대작 라인업! 프롬소프트웨어부터 포켓몬 신작까지  | IGN Korea",
+      "channel": "IGN Korea",
+      "channelId": "UCcmeytqqhbJHEXM9loY7Rcg",
+      "thumbnail": "https://i.ytimg.com/vi/Bb6SxujJR0k/hqdefault.jpg",
+      "youtubeUrl": "https://www.youtube.com/watch?v=Bb6SxujJR0k",
+      "genres": [
+        "rpg",
+        "collect"
+      ],
+      "gameTag": "포켓몬",
+      "publishedAt": "2026-03-21T10:30:16+00:00"
+    },
     {
       "id": "nS6U0fxnjdc",
       "title": "[붉은사막] 다른건 몰라도 보스전만큼은...!!!#shorts",
@@ -703,20 +717,6 @@
       ],
       "gameTag": "포켓몬",
       "publishedAt": "2026-03-03T15:20:42+00:00"
-    },
-    {
-      "id": "9tVrWTJKtUc",
-      "title": "포켓몬스터 30주년 기념! IGN 선정 역대 포켓몬 시리즈 TOP 10 | IGN Korea",
-      "channel": "IGN Korea",
-      "channelId": "UCcmeytqqhbJHEXM9loY7Rcg",
-      "thumbnail": "https://i.ytimg.com/vi/9tVrWTJKtUc/hqdefault.jpg",
-      "youtubeUrl": "https://www.youtube.com/watch?v=9tVrWTJKtUc",
-      "genres": [
-        "rpg",
-        "collect"
-      ],
-      "gameTag": "포켓몬",
-      "publishedAt": "2026-03-03T10:30:12+00:00"
     },
     {
       "id": "WKiRYIsYQaY",
