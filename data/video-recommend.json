@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-03-23T07:21:25.470Z",
+  "generatedAt": "2026-03-23T13:23:46.777Z",
   "channels": {
     "UCcmeytqqhbJHEXM9loY7Rcg": {
       "name": "IGN Korea"
@@ -21,6 +21,32 @@
     }
   },
   "videos": [
+    {
+      "id": "9Nb6F1yqKSw",
+      "title": "[리뷰] 재미와 고통이 공존한 60시간 《붉은사막》 | Crimson Desert Review",
+      "channel": "깐",
+      "channelId": "UCBW_PhuXoHk40xF6nO0Q64w",
+      "thumbnail": "https://i.ytimg.com/vi/9Nb6F1yqKSw/hqdefault.jpg",
+      "youtubeUrl": "https://www.youtube.com/watch?v=9Nb6F1yqKSw",
+      "genres": [
+        "rpg"
+      ],
+      "gameTag": "붉은사막",
+      "publishedAt": "2026-03-23T11:45:50+00:00"
+    },
+    {
+      "id": "-rpgzJ1KTvA",
+      "title": "[붉은사막] 중세 판타지 비주얼 하나만큼은 잘 뽑았어..#shorts",
+      "channel": "채널프느느",
+      "channelId": "UCM8nQko8QzUv0M3ZzQfvTcg",
+      "thumbnail": "https://i.ytimg.com/vi/-rpgzJ1KTvA/hqdefault.jpg",
+      "youtubeUrl": "https://www.youtube.com/watch?v=-rpgzJ1KTvA",
+      "genres": [
+        "rpg"
+      ],
+      "gameTag": "붉은사막",
+      "publishedAt": "2026-03-23T09:41:42+00:00"
+    },
     {
       "id": "uQz2odISJwc",
       "title": "87세 할머니가 닌텐도 게임 캐릭터가 된 사연",
@@ -240,7 +266,7 @@
     },
     {
       "id": "TFKvoQrVOjw",
-      "title": "[리뷰] 즈3이 아니었습니다 《몬스터헌터 스토리즈 3 엇갈린 운명》 |  Monster Hunter Stories 3: Twisted Reflection Review",
+      "title": "[리뷰] 즈3이 아니었습니다 《몬스터헌터 스토리즈 3 엇갈린 운명》 | Monster Hunter Stories 3: Twisted Reflection Review",
       "channel": "깐",
       "channelId": "UCBW_PhuXoHk40xF6nO0Q64w",
       "thumbnail": "https://i.ytimg.com/vi/TFKvoQrVOjw/hqdefault.jpg",
