@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-03-23T02:51:05.805Z",
+  "generatedAt": "2026-03-23T07:21:25.470Z",
   "channels": {
     "UCcmeytqqhbJHEXM9loY7Rcg": {
       "name": "IGN Korea"
@@ -21,6 +21,18 @@
     }
   },
   "videos": [
+    {
+      "id": "uQz2odISJwc",
+      "title": "87세 할머니가 닌텐도 게임 캐릭터가 된 사연",
+      "channel": "IGN Korea",
+      "channelId": "UCcmeytqqhbJHEXM9loY7Rcg",
+      "thumbnail": "https://i.ytimg.com/vi/uQz2odISJwc/hqdefault.jpg",
+      "youtubeUrl": "https://www.youtube.com/watch?v=uQz2odISJwc",
+      "genres": [
+        "casual"
+      ],
+      "publishedAt": "2026-03-23T05:00:55+00:00"
+    },
     {
       "id": "ve4D-xqccs4",
       "title": "붉은사막이 4.5점 받은 이유",
@@ -651,18 +663,6 @@
         "indie"
       ],
       "publishedAt": "2026-03-05T06:04:41+00:00"
-    },
-    {
-      "id": "ZaEiPnPVhaA",
-      "title": "이브 온라인 속 5억 원짜리 역대급 우주 전쟁!",
-      "channel": "IGN Korea",
-      "channelId": "UCcmeytqqhbJHEXM9loY7Rcg",
-      "thumbnail": "https://i.ytimg.com/vi/ZaEiPnPVhaA/hqdefault.jpg",
-      "youtubeUrl": "https://www.youtube.com/watch?v=ZaEiPnPVhaA",
-      "genres": [
-        "casual"
-      ],
-      "publishedAt": "2026-03-05T05:00:29+00:00"
     },
     {
       "id": "Tzcv1_6mH_g",
