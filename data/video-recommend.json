@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-03-24T07:13:37.277Z",
+  "generatedAt": "2026-03-24T13:27:32.108Z",
   "channels": {
     "UCcmeytqqhbJHEXM9loY7Rcg": {
       "name": "IGN Korea"
@@ -21,6 +21,32 @@
     }
   },
   "videos": [
+    {
+      "id": "04Spa07lodc",
+      "title": "빠와 까를 동시에 미치게하는 붉은사막 근황 | IGN Korea",
+      "channel": "IGN Korea",
+      "channelId": "UCcmeytqqhbJHEXM9loY7Rcg",
+      "thumbnail": "https://i.ytimg.com/vi/04Spa07lodc/hqdefault.jpg",
+      "youtubeUrl": "https://www.youtube.com/watch?v=04Spa07lodc",
+      "genres": [
+        "rpg"
+      ],
+      "gameTag": "붉은사막",
+      "publishedAt": "2026-03-24T11:30:01+00:00"
+    },
+    {
+      "id": "X3_pY3x8NSA",
+      "title": "[붉은사막 가이드] 제 1화 \"극 초반에 떼부자 되는 법\"",
+      "channel": "채널프느느",
+      "channelId": "UCM8nQko8QzUv0M3ZzQfvTcg",
+      "thumbnail": "https://i.ytimg.com/vi/X3_pY3x8NSA/hqdefault.jpg",
+      "youtubeUrl": "https://www.youtube.com/watch?v=X3_pY3x8NSA",
+      "genres": [
+        "rpg"
+      ],
+      "gameTag": "붉은사막",
+      "publishedAt": "2026-03-24T10:31:02+00:00"
+    },
     {
       "id": "9Nb6F1yqKSw",
       "title": "[리뷰] 재미와 고통이 공존한 60시간 《붉은사막》 | Crimson Desert Review",
@@ -663,20 +689,6 @@
         "casual"
       ],
       "publishedAt": "2026-03-05T10:42:37+00:00"
-    },
-    {
-      "id": "i_DdTE22rWM",
-      "title": "하이가드 서비스 종료부터 포켓몬 10세대 공개까지, 희비 엇갈린 게임업계 | IGN Korea",
-      "channel": "IGN Korea",
-      "channelId": "UCcmeytqqhbJHEXM9loY7Rcg",
-      "thumbnail": "https://i.ytimg.com/vi/i_DdTE22rWM/hqdefault.jpg",
-      "youtubeUrl": "https://www.youtube.com/watch?v=i_DdTE22rWM",
-      "genres": [
-        "rpg",
-        "collect"
-      ],
-      "gameTag": "포켓몬",
-      "publishedAt": "2026-03-05T10:30:32+00:00"
     },
     {
       "id": "BjgxCQxBiug",
