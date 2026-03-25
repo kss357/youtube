@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-03-25T07:11:49.782Z",
+  "generatedAt": "2026-03-25T13:26:30.115Z",
   "channels": {
     "UCcmeytqqhbJHEXM9loY7Rcg": {
       "name": "IGN Korea"
@@ -21,6 +21,31 @@
     }
   },
   "videos": [
+    {
+      "id": "fJtaNFCw5Ac",
+      "title": "지금 붉은사막 욕먹는 진짜 이유 (직접 해본 후기)",
+      "channel": "평균남자",
+      "channelId": "UCG3uX-OwJ82T3L3EhC3GPXA",
+      "thumbnail": "https://i.ytimg.com/vi/fJtaNFCw5Ac/hqdefault.jpg",
+      "youtubeUrl": "https://www.youtube.com/watch?v=fJtaNFCw5Ac",
+      "genres": [
+        "rpg"
+      ],
+      "gameTag": "붉은사막",
+      "publishedAt": "2026-03-25T10:00:55+00:00"
+    },
+    {
+      "id": "CqHb0EOw6Nk",
+      "title": "유비소프트가 쏘아 올린 위대한 고증",
+      "channel": "IGN Korea",
+      "channelId": "UCcmeytqqhbJHEXM9loY7Rcg",
+      "thumbnail": "https://i.ytimg.com/vi/CqHb0EOw6Nk/hqdefault.jpg",
+      "youtubeUrl": "https://www.youtube.com/watch?v=CqHb0EOw6Nk",
+      "genres": [
+        "casual"
+      ],
+      "publishedAt": "2026-03-25T07:15:01+00:00"
+    },
     {
       "id": "Fk8q9supgtA",
       "title": "붉은사막 놓쳐선 안 될 필수 공략 팁 15가지",
@@ -652,20 +677,6 @@
       "publishedAt": "2026-03-06T12:00:40+00:00"
     },
     {
-      "id": "-YdRnmThF8k",
-      "title": "멸종한 용이 돌아왔다, 몬스터헌터 스토리즈 3 게임플레이 후기 | IGN Korea",
-      "channel": "IGN Korea",
-      "channelId": "UCcmeytqqhbJHEXM9loY7Rcg",
-      "thumbnail": "https://i.ytimg.com/vi/-YdRnmThF8k/hqdefault.jpg",
-      "youtubeUrl": "https://www.youtube.com/watch?v=-YdRnmThF8k",
-      "genres": [
-        "rpg",
-        "collect"
-      ],
-      "gameTag": "몬스터헌터",
-      "publishedAt": "2026-03-06T10:30:00+00:00"
-    },
-    {
       "id": "bgs4sYhpvJI",
       "title": "알라바스타 던 한글화 소식!! 개발 근황 궁금한 게임 8종!",
       "channel": "평균남자",
@@ -877,18 +888,6 @@
         "casual"
       ],
       "publishedAt": "2026-02-26T03:07:12+00:00"
-    },
-    {
-      "id": "lzOXXOX6KNU",
-      "title": "[블레이드송] 대장장이 체험에 '디스코 엘리시움' 추가한 게임?!",
-      "channel": "채널프느느",
-      "channelId": "UCM8nQko8QzUv0M3ZzQfvTcg",
-      "thumbnail": "https://i.ytimg.com/vi/lzOXXOX6KNU/hqdefault.jpg",
-      "youtubeUrl": "https://www.youtube.com/watch?v=lzOXXOX6KNU",
-      "genres": [
-        "casual"
-      ],
-      "publishedAt": "2026-02-25T11:48:14+00:00"
     }
   ]
 }
