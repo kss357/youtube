@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-03-25T02:48:07.584Z",
+  "generatedAt": "2026-03-25T07:11:49.782Z",
   "channels": {
     "UCcmeytqqhbJHEXM9loY7Rcg": {
       "name": "IGN Korea"
@@ -21,6 +21,19 @@
     }
   },
   "videos": [
+    {
+      "id": "Fk8q9supgtA",
+      "title": "붉은사막 놓쳐선 안 될 필수 공략 팁 15가지",
+      "channel": "게임통",
+      "channelId": "UC7loyhgCm1NRTtyF36hO-jA",
+      "thumbnail": "https://i.ytimg.com/vi/Fk8q9supgtA/hqdefault.jpg",
+      "youtubeUrl": "https://www.youtube.com/watch?v=Fk8q9supgtA",
+      "genres": [
+        "rpg"
+      ],
+      "gameTag": "붉은사막",
+      "publishedAt": "2026-03-25T04:25:57+00:00"
+    },
     {
       "id": "04Spa07lodc",
       "title": "빠와 까를 동시에 미치게하는 붉은사막 근황 | IGN Korea",
