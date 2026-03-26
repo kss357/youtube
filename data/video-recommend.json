@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-03-26T07:19:44.935Z",
+  "generatedAt": "2026-03-26T13:44:38.570Z",
   "channels": {
     "UCcmeytqqhbJHEXM9loY7Rcg": {
       "name": "IGN Korea"
@@ -21,6 +21,45 @@
     }
   },
   "videos": [
+    {
+      "id": "x4unpnsZS6c",
+      "title": "(게임리뷰) 선택과 집중이 빛을 발한 리메이크, ⟪드래곤 퀘스트 VII Reimagined⟫",
+      "channel": "플레이타임",
+      "channelId": "UC6haqlR_OBveu10B-7_AR2w",
+      "thumbnail": "https://i.ytimg.com/vi/x4unpnsZS6c/hqdefault.jpg",
+      "youtubeUrl": "https://www.youtube.com/watch?v=x4unpnsZS6c",
+      "genres": [
+        "casual"
+      ],
+      "publishedAt": "2026-03-26T11:52:09+00:00"
+    },
+    {
+      "id": "OO5r8D68ue8",
+      "title": "오직 배틀에만 전념한 포켓몬 신작! 포켓몬 챔피언스 최신 정보 총정리 | IGN Korea",
+      "channel": "IGN Korea",
+      "channelId": "UCcmeytqqhbJHEXM9loY7Rcg",
+      "thumbnail": "https://i.ytimg.com/vi/OO5r8D68ue8/hqdefault.jpg",
+      "youtubeUrl": "https://www.youtube.com/watch?v=OO5r8D68ue8",
+      "genres": [
+        "rpg",
+        "collect"
+      ],
+      "gameTag": "포켓몬",
+      "publishedAt": "2026-03-26T10:30:12+00:00"
+    },
+    {
+      "id": "XlGk2YzXexU",
+      "title": "[붉은사막] 극 초반 돈 없을 땐 무조건 이것만 하세요#shorts",
+      "channel": "채널프느느",
+      "channelId": "UCM8nQko8QzUv0M3ZzQfvTcg",
+      "thumbnail": "https://i.ytimg.com/vi/XlGk2YzXexU/hqdefault.jpg",
+      "youtubeUrl": "https://www.youtube.com/watch?v=XlGk2YzXexU",
+      "genres": [
+        "rpg"
+      ],
+      "gameTag": "붉은사막",
+      "publishedAt": "2026-03-26T08:46:15+00:00"
+    },
     {
       "id": "fJtaNFCw5Ac",
       "title": "지금 붉은사막 욕먹는 진짜 이유 (직접 해본 후기)",
@@ -641,18 +680,6 @@
       "publishedAt": "2026-03-07T23:00:00+00:00"
     },
     {
-      "id": "vhJyoHiidNg",
-      "title": "국가 기밀이 유출된 황당한 이유 ㄷㄷ",
-      "channel": "IGN Korea",
-      "channelId": "UCcmeytqqhbJHEXM9loY7Rcg",
-      "thumbnail": "https://i.ytimg.com/vi/vhJyoHiidNg/hqdefault.jpg",
-      "youtubeUrl": "https://www.youtube.com/watch?v=vhJyoHiidNg",
-      "genres": [
-        "casual"
-      ],
-      "publishedAt": "2026-03-07T09:01:13+00:00"
-    },
-    {
       "id": "ZOqnxiwBrYs",
       "title": "홋카이도를 배경으로 한 게임이 지역 별로 차별화를 한 방법 | ⟪고스트 오브 요테이⟫ 리뷰(3/4) #고스트오브요테이#홋카이도#오픈월드",
       "channel": "플레이타임",
@@ -806,18 +833,6 @@
       "publishedAt": "2026-03-03T00:29:51+00:00"
     },
     {
-      "id": "9O9y6WVpCnY",
-      "title": "일본 전국시대 게임이 서부극처럼 보였던 이유 | ⟪고스트 오브 요테이⟫ 리뷰(2/4) #고스트오브요테이#구로사와아키라#황야의7인",
-      "channel": "플레이타임",
-      "channelId": "UC6haqlR_OBveu10B-7_AR2w",
-      "thumbnail": "https://i.ytimg.com/vi/9O9y6WVpCnY/hqdefault.jpg",
-      "youtubeUrl": "https://www.youtube.com/watch?v=9O9y6WVpCnY",
-      "genres": [
-        "casual"
-      ],
-      "publishedAt": "2026-03-02T03:00:11+00:00"
-    },
-    {
       "id": "rUNS9mJ1vdg",
       "title": "워프레임 2026년에 시작해도 재밌을까?",
       "channel": "게임통",
@@ -864,18 +879,6 @@
         "strategy"
       ],
       "publishedAt": "2026-02-27T08:17:14+00:00"
-    },
-    {
-      "id": "hqUIHmoheaQ",
-      "title": "지금의 나를 만든, 나의 인생 게임들 | Games That Made Me Who I Am",
-      "channel": "깐",
-      "channelId": "UCBW_PhuXoHk40xF6nO0Q64w",
-      "thumbnail": "https://i.ytimg.com/vi/hqUIHmoheaQ/hqdefault.jpg",
-      "youtubeUrl": "https://www.youtube.com/watch?v=hqUIHmoheaQ",
-      "genres": [
-        "casual"
-      ],
-      "publishedAt": "2026-02-26T08:38:49+00:00"
     }
   ]
 }
