@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-03-26T19:17:56.837Z",
+  "generatedAt": "2026-03-27T02:57:07.242Z",
   "channels": {
     "UCcmeytqqhbJHEXM9loY7Rcg": {
       "name": "IGN Korea"
@@ -21,6 +21,18 @@
     }
   },
   "videos": [
+    {
+      "id": "f-ShSlzZbpw",
+      "title": "마침내 나오는 조선 소울라이크? 무사 더티 페이트 최초 공개 트레일러",
+      "channel": "게임통",
+      "channelId": "UC7loyhgCm1NRTtyF36hO-jA",
+      "thumbnail": "https://i.ytimg.com/vi/f-ShSlzZbpw/hqdefault.jpg",
+      "youtubeUrl": "https://www.youtube.com/watch?v=f-ShSlzZbpw",
+      "genres": [
+        "casual"
+      ],
+      "publishedAt": "2026-03-26T20:14:19+00:00"
+    },
     {
       "id": "x4unpnsZS6c",
       "title": "(게임리뷰) 선택과 집중이 빛을 발한 리메이크, ⟪드래곤 퀘스트 VII Reimagined⟫",
